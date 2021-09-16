@@ -1,12 +1,13 @@
 ## Hi! I am Isabel 💞
+My name is Isabel, I'm Brazilian and I'm 19 years old. I'm beginner to web development, I study hard to become good at what I like!
 - 📚 I’m currently learning HTML, CSS and JavaScript!
-- 🌈 Pronouns: she/her!
-- 🐾 Fact: I love cats and mice!
+- 🌈 Demisexual - she/her!
+- 🐾 I love cats and mice!
 
 <div>
   <a href="https://github.com/belqraposo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=belqraposo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belqraposo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=belqraposo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belqraposo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="bel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
