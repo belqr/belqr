@@ -1,5 +1,5 @@
 ## Hi! I am Isabel 💞
-My name is Isabel, I'm Brazilian and I'm 19 years old. I'm beginner to web development, I study hard to become good at what I like!
+My name is Isabel, I'm Brazilian and I'm 20 years old. I'm beginner to web development, I study hard to become good at what I like!
 - 📚 I’m currently learning HTML, CSS and JavaScript!
 - 🌈 Demisexual - she/her!
 - 🐾 I love cats and mice!
