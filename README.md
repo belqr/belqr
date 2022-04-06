@@ -1,4 +1,4 @@
-## Hi! I am Isabel 💞
+## Hi! I am Bel 💞
 My name is Isabel, I'm Brazilian and I'm 20 years old. I'm beginner to web development, I study hard to become good at what I like!
 - 📚 I’m currently learning HTML, CSS and JavaScript!
 - 🐾 I love cats and mice!
