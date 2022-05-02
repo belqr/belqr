@@ -1,5 +1,5 @@
 <div>
-  <img src="https://drive.google.com/file/d/1Jkj5GulxUGhIFq2StpthUGaffRq9cEEa/view?usp=sharing" alt="info-me">
+  <img src="bel.gif" alt="info-me">
 </div><br>
   
 <div align="center"> 
