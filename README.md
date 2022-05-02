@@ -1,5 +1,5 @@
 <div>
-  <img width="100%" align="center"  src="bel1.gif" alt="info-me">
+  <img width="100%" align="center"  src="bell.mp4" alt="info-me">
 </div><br>
   
 <div align="center"> 
@@ -26,8 +26,8 @@
 
 <div align="center">
   <a href="https://github.com/belqraposo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=belqraposo&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belqraposo&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=belqraposo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belqraposo&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
   ##
