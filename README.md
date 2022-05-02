@@ -1,5 +1,5 @@
 <div>
-  <img src="https://www.canva.com/design/DAE_jVvkFjs/uExXORPt36guQjifVA-XXw/edit?utm_content=DAE_jVvkFjs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="info-me">
+  <img src="https://www.canva.com/design/DAE_jVvkFjs/view" alt="info-me">
   </div>
   
   <div> 
@@ -14,9 +14,7 @@ My name is Isabel, I'm Brazilian and I'm 20 years old. I'm beginner to web devel
 - 📚 I’m currently learning HTML, CSS and JavaScript!
 - 🐾 I love cats and mice!
 
-##Technology Stack
-
-##
+## Technology Stack
 
 <div>
   <a href="https://github.com/belqraposo">
