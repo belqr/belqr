@@ -1,13 +1,13 @@
 <div>
-  <img src="https://www.canva.com/design/DAE_jVvkFjs/view" target="_blank" alt="info-me">
-  </div>
+  <img src="https://drive.google.com/file/d/1Jkj5GulxUGhIFq2StpthUGaffRq9cEEa/view?usp=sharing" alt="info-me">
+</div><br>
   
-  <div style="text-align: center"> 
+<div align="center"> 
   <a href="https://www.facebook.com/bel.qrzs" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/belkirin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/belqrz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/autisticute" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  </div>
+</div>
   
 My name is Isabel, I'm Brazilian and I'm 20 years old. I'm beginner to web development, I study hard to become good at what I like!
 - 📚 I’m currently learning HTML, CSS and JavaScript!
