@@ -1,7 +1,22 @@
-## Hi! I am Bel 💞
+<div>
+  <img src="https://www.canva.com/design/DAE_jVvkFjs/uExXORPt36guQjifVA-XXw/edit?utm_content=DAE_jVvkFjs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="info-me">
+  </div>
+  
+  <div> 
+  <a href="https://www.facebook.com/bel.qrzs" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/belkirin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.mailto:bel.qraposo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/belqrz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/autisticute" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  </div>
+  
 My name is Isabel, I'm Brazilian and I'm 20 years old. I'm beginner to web development, I study hard to become good at what I like!
 - 📚 I’m currently learning HTML, CSS and JavaScript!
 - 🐾 I love cats and mice!
+
+##Technology Stack
+
+##
 
 <div>
   <a href="https://github.com/belqraposo">
@@ -17,11 +32,5 @@ My name is Isabel, I'm Brazilian and I'm 20 years old. I'm beginner to web devel
   
   ##
   
-  
-<div> 
-  <a href="https://www.facebook.com/bel.qrzs" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/belkirin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.mailto:bel.qraposo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/belqrz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/autisticute" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+
  
