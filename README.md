@@ -1,5 +1,5 @@
 <div>
-  <img align="center"  src="belabout.gif" alt="info-me">
+  <img align="center"  src="aboutme.gif" alt="info-me">
 </div><br>
   
 <div align="center"> 
