@@ -1,17 +1,15 @@
-<div>
-  <img align="center"  src="aboutme.gif" alt="info-me">
-</div><br>
+ <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=FFFFFF&width=1000&height=100&lines=Hey+there%2C+welcome+to+my+GitHub!;My+name+is+Isabel%2C+I'm+21+years+old.;I+am+an+autistic+front-end+developer!" alt="Typing SVG" align="center"/></a>
+<br>
   
 <div align="center"> 
-  <a href="https://www.facebook.com/bel.qrzs" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/beozr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/belqraposo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/belraposo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
 <h2 align="center">About Me 💭</h2><br>
 
 <div display="inline">
-  <p align="justify" width="300px">Hi! My name is Isabel, but you can call me Bel. I have a degree in Chemistry, but I strayed from the area and switched to technology. I am currently a student of    Front-End Development, learning HTML5, CSS and JavaScript.</p>
+  <p align="justify" width="300px">Hello! My name is Isabel, but you can call me Bel! I'm 21 years old, I'm an autistic person (level 1 support), I've studied programming for 2 years, I have a degree in chemistry, but technology is part of me, and I decided to follow the path of programming in front-end development.</p>
 </div>
 
 <h2 align="center">Language Stack ✨</h2><br>
