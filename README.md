@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/39WuBTD.jpg" width="100%">
+<img src="https://wallpaperaccess.com/full/247374.jpg" width="100%">
 
 <br><h1 align="center">  ***୧ About me***◦ ୭</h1>
 
@@ -29,8 +29,12 @@ I studied integrated technical education for four years, thus graduating in Tech
     <img align="center" alt="bel-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="bel-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
     <img align="center" alt="bel-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
- </div>
+ </div><br>
 
- <br>
+<br><h1 align="center"> ***-ˋGitHub Activity༄*** </h1>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belraposo&bg_color=22272e&color=d4c799&line=439a37&point=184e1f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+
+<img src="https://i.imgur.com/39WuBTD.jpg" width="100%">
 
