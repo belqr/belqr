@@ -36,5 +36,13 @@ I studied integrated technical education for four years, thus graduating in Tech
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belraposo&bg_color=22272e&color=d4c799&line=439a37&point=184e1f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
-<img src="https://i.imgur.com/39WuBTD.jpg" width="100%">
+<div align="center">
+  <a href="https://github.com/belraposo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belraposo&show_icons=true&icon_color=567700&title_color=439A37&hide_border=true&text_color=D5C89A&bg_color=22272e&theme=vue-dark&include_all_commits=true&count_private=true"/>
+
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belraposo&title_color=439A37&hide_border=true&bg_color=22272e&text_color=D5C89A&layout=compact&icon_color=567700&langs_count=7&theme=vue-dark&include_all_commits=true&count_private=true"/>
+</div><br>
+
+<br><img src="https://i.imgur.com/39WuBTD.jpg" width="100%">
 
