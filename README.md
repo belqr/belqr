@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/39WuBTD.jpg" width="100%"><br>
 
-<br><h1 align="center">  ***୧ About me***◦ ୭</h1>
+<h1 align="center">  ***୧ About me***◦ ୭</h1>
 
 <img src="https://media.tenor.com/mfp6tEpIEnYAAAAC/arrietty-studioghibli.gif" width="420px" align="right">
 <p align="left">🌸 Hello! My name is Isabel, I'm 21 years old and I have level 1 autistic support.
