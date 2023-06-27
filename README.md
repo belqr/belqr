@@ -12,7 +12,7 @@ I studied integrated technical education for four years, thus graduating in Tech
 
 <p> 🌿 These are the languages ​​I've studied and the ones I'm still studying.</p>
 
-<img src="https://i.gifer.com/origin/23/238dd88a85136f87f654e4f9570254ea.gif" width="550px" height="350px" align="left">
+<img src="https://i.gifer.com/origin/23/238dd88a85136f87f654e4f9570254ea.gif" width="500px" height="350px" align="left">
 
   <h2 align="center">  ◦˚. learned:  </h2><br>
   <div align="center">
@@ -30,5 +30,7 @@ I studied integrated technical education for four years, thus graduating in Tech
     <img align="center" alt="bel-Ts" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
     <img align="center" alt="bel-Bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
  </div>
+
+ <br>
 
 
