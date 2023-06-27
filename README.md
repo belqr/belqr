@@ -31,31 +31,4 @@ I studied integrated technical education for four years, thus graduating in Tech
     <img align="center" alt="bel-Bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
  </div>
 
- <br><h1 align="center"> ***˚.GitHub Activity ೃ*** </h1>
-
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belraposo&bg_color=22272e&color=d5c89a&line=439a37&point=184e1f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
-
-<div align="center">
-  <a href="https://github.com/belraposo">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=belraposo&show_icons=true&hide_border=true&theme=vue-dark&title_color=439A37&icon_color=184E1F&text_color=C1B58D&bg_color=22272E&include_all_commits=true&count_private=true"/>
-
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belraposo&layout=compact&langs_count=7&title_color=439A37&hide_border=true&icon_color=184E1F&text_color=C1B58D&theme=vue-dark&bg_color=22272E"/>
-</div>
-
-<br><h1 align="center"> ***-ˋRepositories༄*** </h1>
-<div>
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=belraposo&repo=portfolio&border_color=373E47&title_color=439A37&text_color=C1B58D&bg_color=22272E">
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=belraposo&repo=nlw-setup&border_color=373E47&title_color=439A37&text_color=C1B58D&bg_color=22272E">
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=belraposo&repo=Project-Todo&border_color=373E47&title_color=439A37&text_color=C1B58D&bg_color=22272E">
-   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=belraposo&repo=Project-Calculator&border_color=373E47&title_color=439A37&text_color=C1B58D&bg_color=22272E">
-    
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=belraposo&repo=Project-Totoro&border_color=373E47&title_color=439A37&text_color=C1B58D&bg_color=22272E">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=belraposo&repo=Project-Counter&border_color=373E47&title_color=439A37&text_color=C1B58D&bg_color=22272E">
-  
-</div>
 
