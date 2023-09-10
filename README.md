@@ -44,5 +44,5 @@ I studied integrated technical education for four years, thus graduating in Tech
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belraposo&title_color=439A37&hide_border=true&bg_color=22272e&text_color=D5C89A&layout=compact&icon_color=567700&langs_count=7&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div><br>
 
-<br><img src="https://i.imgur.com/39WuBTD.jpg" width="100%">
+<br><img src="https://cdn.wallpapersafari.com/47/84/8zwqrW.jpg" width="100%">
 
