@@ -3,7 +3,7 @@
 <br><h1 align="center">  ***୧ About me***◦ ୭</h1>
 
 <img src="https://media.tenor.com/mfp6tEpIEnYAAAAC/arrietty-studioghibli.gif" width="420px" align="right">
-<p align="left">🌸 Hello! My name is Isabel, I'm 21 years old and I have level 1 autistic support.
+<p align="left">🌸 Hello! My name is Isabel, I'm 22 years old and I have level 1 autistic support.
 I studied integrated technical education for four years, thus graduating in Technical Chemistry. During my training in Technical Chemistry I had great opportunities to carry out internships in pharmaceutical laboratories in the location where I studied.</p>
 <p>But even with this training, I felt that something was missing, that it was not complete, so I decided to delete everything from my past career and migrated completely to Front-End Development, because since I was a child I have always been passionate about technology, but I lacked an incentive, and I found this encouragement and support from my husband, and today I remain focused on programming studies, learning everything in online courses.</p>
 
