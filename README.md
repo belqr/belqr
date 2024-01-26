@@ -1,10 +1,3 @@
-<div width="100%" align="center">
-  <img src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" height="150px">
-  <img src="https://img1.picmix.com/output/stamp/normal/6/2/5/4/934526_ed23d.gif" height="150px">
-  <img src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" height="150px">
-  <img src="https://img1.picmix.com/output/stamp/normal/6/2/5/4/934526_ed23d.gif" height="150px">
-
-</div>
 
 <br><h1 align="center">  ***୧ About me***◦ ୭</h1>
 
@@ -16,31 +9,31 @@ I studied integrated technical education for four years, thus graduating in Tech
 
 <br><h1 align="center"> ***◦Languages***୨ </h1>
 
-<p> 'These are the languages, frameworks and libs that I studied and the ones I'm still studying!</p>
-
-<img src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gif" width="480px" height="400px" align="left">
+<div>
+  <p> 'These are the languages, frameworks and libs that I studied and the ones I'm still studying!</p>
+  <img src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gif" width="480px" height="400px" align="left">
+</div>
 
   <h2 align="center">  ◦˚. learned:  </h2><br>
   <div align="center">
-    <img align="center" alt="bel-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-    <img align="center" alt="bel-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-    <img align="center" alt="bel-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-    <img align="center" alt="bel-Github" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    <img align="center" alt="bel-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="bel-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="bel-JQuery" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-    <img align="center" alt="bel-Bootstrap" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="bel-Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img align="center" alt="bel-Less" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
-    <img align="center" alt="bel-Grunt" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg">
+    <img align="center" alt="bel-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+    <img align="center" alt="bel-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+    <img align="center" alt="bel-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    <img align="center" alt="bel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="bel-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="bel-JQuery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+    <img align="center" alt="bel-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="bel-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align="center" alt="bel-Less" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
+    <img align="center" alt="bel-Grunt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg">
   </div><br>
  
  <h2 align="center"> ◦˚. studying: </h2><br>
  <div align="center">
-    <img align="center" alt="bel-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="bel-VueJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="bel-Nextjs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="bel-Tailwind" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" alt="bel-Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="bel-VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="bel-Nextjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="bel-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
  </div><br>
 
 <br><h1 align="center"> ***-ˋGitHub Activity༄*** </h1>
