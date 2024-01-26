@@ -1,18 +1,24 @@
-<img src="https://wallpaperaccess.com/full/247374.jpg" width="100%">
+<div width="100%" align="center">
+  <img src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" height="150px">
+  <img src="https://img1.picmix.com/output/stamp/normal/6/2/5/4/934526_ed23d.gif" height="150px">
+  <img src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" height="150px">
+  <img src="https://img1.picmix.com/output/stamp/normal/6/2/5/4/934526_ed23d.gif" height="150px">
+
+</div>
 
 <br><h1 align="center">  ***୧ About me***◦ ୭</h1>
 
-<img src="https://media.tenor.com/mfp6tEpIEnYAAAAC/arrietty-studioghibli.gif" width="420px" align="right">
-<p align="left">🌸 Hello! My name is Isabel, I'm 22 years old and I have level 1 autistic support.
+<img src="https://i.pinimg.com/originals/9f/93/aa/9f93aab109f2910ae62bc63956d4acd5.gif" width="420px" height="265px" align="right">
+<p align="left">'Hi! My name is Isabel, I'm 22 years old and I have level 1 autistic support.
 I studied integrated technical education for four years, thus graduating in Technical Chemistry. During my training in Technical Chemistry I had great opportunities to carry out internships in pharmaceutical laboratories in the location where I studied.</p>
 <p>But even with this training, I felt that something was missing, that it was not complete, so I decided to delete everything from my past career and migrated completely to Front-End Development, because since I was a child I have always been passionate about technology, but I lacked an incentive, and I found this encouragement and support from my husband, and today I remain focused on programming studies, learning everything in online courses.</p>
 
 
 <br><h1 align="center"> ***◦Languages***୨ </h1>
 
-<p> 🌿 These are the languages ​​I've studied and the ones I'm still studying.</p>
+<p> 'These are the languages, frameworks and libs that I studied and the ones I'm still studying!</p>
 
-<img src="https://i.gifer.com/origin/23/238dd88a85136f87f654e4f9570254ea.gif" width="480px" height="400px" align="left">
+<img src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gif" width="480px" height="400px" align="left">
 
   <h2 align="center">  ◦˚. learned:  </h2><br>
   <div align="center">
@@ -50,5 +56,5 @@ I studied integrated technical education for four years, thus graduating in Tech
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belraposo&title_color=439A37&hide_border=true&bg_color=22272e&text_color=D5C89A&layout=compact&icon_color=567700&langs_count=7&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div><br>
 
-<br><img src="https://cdn.wallpapersafari.com/47/84/8zwqrW.jpg" width="100%">
+<br><img src="https://wallpapers.com/images/hd/90s-anime-aesthetic-desktop-db85k8n8jduub81k.jpg" width="100%">
 
