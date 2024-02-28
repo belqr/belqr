@@ -1,53 +1,83 @@
-<br><div>
-  <h1 align="center">  ୧ About me◦ ୭</h1>
-  <img src="https://i.pinimg.com/originals/9f/93/aa/9f93aab109f2910ae62bc63956d4acd5.gif" width="420px" height="265px" align="right">
-  <p align="left">'Hi! My name is Isabel, I'm 22 years old and I have level 1 autistic support.
-  I studied integrated technical education for four years, thus graduating in Technical Chemistry. During my training in Technical Chemistry I had great opportunities to carry out internships in pharmaceutical laboratories in the location where I studied.</p>
-  <p>But even with this training, I felt that something was missing, that it was not complete, so I decided to delete everything from my past career and migrated completely to Front-End Development, because since I was a child I have always been passionate about technology, but I lacked an incentive, and I found this encouragement and support from my husband, and today I remain focused on programming studies, learning everything in online courses.</p>
+# Olá! 👋🏻
+
+ Meu nome é Isabel e este é o meu espaço no GitHub! Aqui você encontrará um pouco sobre mim, meus interesses, projetos e estudos.
+  
+## 🌸 Sobre mim 
+
+ Olá! Sou uma jovem autista de 22 anos em busca de desafios e descobertas na vastidão do mundo da programação. Minha jornada começou de maneira inusitada, pois antes de me aventurar pelo código, eu mergulhava nas complexidades da Química.
+ 
+ Decidi trocar os tubos de ensaio e as fórmulas químicas pelos algoritmos e linguagens de programação. Foi uma decisão que muitos considerariam burrice, mas para mim, foi uma oportunidade de seguir meu coração e explorar um novo mundo de possibilidades.
+ A transição não foi fácil. O ritmo acelerado do aprendizado em programação exigiu paciência e resiliência, mas minha determinação nunca vacilou. Através de cursos online, tutoriais e projetos pessoais, mergulhei de cabeça no universo da codificação, absorvendo cada linha de código como um novo 
+ elemento em minha jornada.
+ 
+ Como pessoa autista, encontrei na programação uma linguagem que fazia sentido para mim. A lógica estruturada e a precisão exigida na escrita de código ressoaram profundamente com minha forma de pensar e processar informações. Encontrei um ambiente acolhedor onde minha singularidade é valorizada e 
+ onde posso contribuir com minhas habilidades de maneira significativa.
+ 
+ Hoje, enquanto continuo minha jornada de aprendizado em programação, estou mais confiante do que nunca em meu potencial para criar, inovar e fazer a diferença no mundo da tecnologia. Cada linha de código que escrevo é mais do que apenas uma instrução; é uma expressão de minha paixão pela criação e 
+ uma etapa em minha jornada de autodescoberta.
+ 
+ Estou animada para ver para onde essa jornada me levará e estou pronta para abraçar todos os desafios e oportunidades que surgirem no caminho. Se você me encontrar no mundo digital, saiba que sou uma autista determinada, apaixonada pela programação e pronta para fazer parte de algo incrível. Vamos 
+ codificar juntos e tornar o futuro um lugar mais inclusivo e inovador para todos! 🌟🚀
+
+ ### Entre em contato comigo 👇🏻
+
+ <p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bel-devfront/" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5573982277632" alt="WhatsApp"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/belqraposo/" alt="Instagram"/></a>
+</p>
+
+ ---
+ 
+<br>
+
+## 📌 Minhas Skills
+
+  <code><img alt="bel-HTML" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/></code>
+  <code><img alt="bel-CSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/></code>
+  <code><img alt="bel-Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></code>
+  <code><img alt="bel-Js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></code>
+  <code><img alt="bel-React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+  <code><img alt="bel-JQuery" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/></code>
+  <code><img alt="bel-Bootstrap" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/></code>
+  <code><img alt="bel-Sass" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></code>
+  <code><img alt="bel-Less" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/></code>
+  <code><img alt="bel-Grunt" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg"/></code>
+  
+<br>
+
+  ### ✏️ Aprendendo 
+  
+  <code><img alt="bel-Ts" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></code>
+  <code><img alt="bel-VueJS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code>
+  <code><img alt="bel-Nextjs" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></code>
+  <code><img alt="bel-Tailwind" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></code>
+  
+ ---
+ 
+<br>
+
+  ## 💫 GitHub Analytics
+  
+  ![Belraposo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belraposo&bg_color=22272e&color=DD6387&line=78D7F7&point=533849&area=true&hide_border=true)
+  <br>
+
+  <div align="center">
+    <a href="https://github.com/belraposo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belraposo&show_icons=true&theme=dracula&bg_color=22272e&hide_border=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belraposo&layout=compact&theme=dracula&bg_color=22272e&hide_border=true"/>
 </div>
 <br>
 
-<div>
-  <h1 align="center"> ◦Languages୨ </h1>
-  
-  <div>
-    <p> 'These are the languages, frameworks and libs that I studied and the ones I'm still studying!</p>
-    <img src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gif" width="480px" height="400px" align="left">
-  </div>
-    <h2 align="center">  ◦˚. learned:  </h2><br>
-    <div align="center">
-      <img align="center" alt="bel-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-      <img align="center" alt="bel-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-      <img align="center" alt="bel-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-      <img align="center" alt="bel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="bel-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      <img align="center" alt="bel-JQuery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-      <img align="center" alt="bel-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-      <img align="center" alt="bel-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-      <img align="center" alt="bel-Less" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
-      <img align="center" alt="bel-Grunt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg">
-    </div><br>
-   <h2 align="center"> ◦˚. studying: </h2><br>
-   <div align="center">
-      <img align="center" alt="bel-Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-      <img align="center" alt="bel-VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-      <img align="center" alt="bel-Nextjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-      <img align="center" alt="bel-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-   </div>
-</div>
+<p align="center">
+  <a href="https://github.com/belraposo/github-profile-trophy" title="repositório de troféus">
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=belraposo&column=8&theme=dracula&no-frame=true&no-bg=true"/>
+  </a>
+</p>
 
-<br><div>
-  <br><h1 align="center"> -ˋGitHub Activity༄ </h1>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belraposo&bg_color=22272e&color=d4c799&line=439a37&point=184e1f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <br>
-  
-  <div align="center">
-    <a href="https://github.com/belraposo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belraposo&show_icons=true&icon_color=567700&title_color=439A37&hide_border=true&text_color=D5C89A&bg_color=22272e&theme=vue-dark&include_all_commits=true&count_private=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belraposo&title_color=439A37&hide_border=true&bg_color=22272e&text_color=D5C89A&layout=compact&icon_color=567700&langs_count=7&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  </div><br>
-</div>
+---
 
-<br><img src="https://wallpapers.com/images/hd/90s-anime-aesthetic-desktop-db85k8n8jduub81k.jpg" width="100%">
-
+<br>
