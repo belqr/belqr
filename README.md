@@ -1,6 +1,6 @@
 # Olá! 👋🏻
 
- Meu nome é Isabel e este é o meu espaço no GitHub! Aqui você encontrará um pouco sobre mim, meus interesses, projetos e estudos.
+ Meu nome é Isabel e este é o meu espaço no GitHub! Aqui você encontrará um pouco sobre mim, projetos e estudos.
   
 ## 🌸 Sobre mim 
 
