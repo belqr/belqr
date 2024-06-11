@@ -60,6 +60,7 @@
   
   <code><img alt="bel-VueJS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code>
   <code><img alt="bel-Nextjs" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></code>
+  <code><img alt="bel-SQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></code>
   
  ---
  
