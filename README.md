@@ -51,12 +51,12 @@
   <code><img alt="bel-Less" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/></code>
   <code><img alt="bel-Grunt" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg"/></code>
   <code><img alt="bel-Gulp" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg"/></code>
+   <code><img alt="bel-Ts" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></code>
   
 <br>
 
   ### ✏️ Aprendendo 
   
-  <code><img alt="bel-Ts" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></code>
   <code><img alt="bel-VueJS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code>
   <code><img alt="bel-Nextjs" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></code>
   
