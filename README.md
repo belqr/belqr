@@ -44,6 +44,7 @@
   <code><img alt="bel-Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></code>
   <code><img alt="bel-Js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></code>
   <code><img alt="bel-React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+  <code><img alt="bel-Ts" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></code>
   <code><img alt="bel-JQuery" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/></code>
   <code><img alt="bel-Bootstrap" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/></code>
   <code><img alt="bel-Tailwind" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></code>
@@ -51,15 +52,14 @@
   <code><img alt="bel-Less" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/></code>
   <code><img alt="bel-Grunt" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg"/></code>
   <code><img alt="bel-Gulp" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg"/></code>
-  <code><img alt="bel-Ts" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></code>
   <code><img alt="bel-Redux" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"/></code>
+  <code><img alt="bel-Nextjs" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></code>
   
 <br>
 
   ### ✏️ Aprendendo 
   
   <code><img alt="bel-VueJS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code>
-  <code><img alt="bel-Nextjs" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></code>
   <code><img alt="bel-SQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></code>
   
  ---
@@ -68,19 +68,19 @@
 
   ## 💫 GitHub Analytics
   
-  ![Belraposo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belraposo&bg_color=22272e&color=DD6387&line=78D7F7&point=533849&area=true&hide_border=true)
+  ![Belqr github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belqr&bg_color=22272e&color=DD6387&line=78D7F7&point=533849&area=true&hide_border=true)
   <br>
 
   <div align="center">
-    <a href="https://github.com/belraposo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belraposo&show_icons=true&theme=dracula&bg_color=22272e&hide_border=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belraposo&layout=compact&theme=dracula&bg_color=22272e&hide_border=true"/>
+    <a href="https://github.com/belqr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belqr&show_icons=true&theme=dracula&bg_color=22272e&hide_border=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belqr&layout=compact&theme=dracula&bg_color=22272e&hide_border=true"/>
 </div>
 <br>
 
 <p align="center">
-  <a href="https://github.com/belraposo/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=belraposo&column=8&theme=dracula&no-frame=true&no-bg=true"/>
+  <a href="https://github.com/belqr/github-profile-trophy" title="repositório de troféus">
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=belqr&column=8&theme=dracula&no-frame=true&no-bg=true"/>
   </a>
 </p>
 
