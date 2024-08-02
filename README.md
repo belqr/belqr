@@ -73,7 +73,7 @@
 
   <div align="center">
     <a href="https://github.com/belqr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belqr&show_icons=true&theme=dracula&bg_color=22272e&hide_border=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belqr&show_icons=true&theme=dracula&bg_color=22272e&hide_border=true&include_all_commits=true"/> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belqr&layout=compact&theme=dracula&bg_color=22272e&hide_border=true"/>
 </div>
 <br>
