@@ -4,7 +4,7 @@
   
 ## 🌸 Sobre mim 
 
- Olá! Sou uma jovem autista de 22 anos em busca de desafios e descobertas na vastidão do mundo da programação. Minha jornada começou de maneira inusitada, pois antes de me aventurar pelo código, eu mergulhava nas complexidades da Química.
+ Sou uma jovem autista de 22 anos em busca de desafios e descobertas na vastidão do mundo da programação. Minha jornada começou de maneira inusitada, pois antes de me aventurar pelo código, eu mergulhava nas complexidades da Química.
  
 Troquei os tubos de ensaio e as fórmulas químicas pelos algoritmos e as linguagens de programação. Muita gente pode ter pensado que eu estava louca, mas, pra mim, foi a chance de seguir meu coração e mergulhar num mundo totalmente novo.
 Claro, a mudança não foi nenhum passeio no parque. Aprender programação tem um ritmo frenético que exige paciência (muita!) e resiliência, mas minha vontade de aprender nunca foi embora. Com cursos online, tutoriais e uns projetos meio doidos, fui me jogando de cabeça nesse universo. Cada linha de código que eu escrevia era como descobrir um elemento novo nesse meu "experimento" pessoal.
