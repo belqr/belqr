@@ -6,18 +6,13 @@
 
  Olá! Sou uma jovem autista de 22 anos em busca de desafios e descobertas na vastidão do mundo da programação. Minha jornada começou de maneira inusitada, pois antes de me aventurar pelo código, eu mergulhava nas complexidades da Química.
  
- Decidi trocar os tubos de ensaio e as fórmulas químicas pelos algoritmos e linguagens de programação. Foi uma decisão que muitos considerariam burrice, mas para mim, foi uma oportunidade de seguir meu coração e explorar um novo mundo de possibilidades.
- A transição não foi fácil. O ritmo acelerado do aprendizado em programação exigiu paciência e resiliência, mas minha determinação nunca vacilou. Através de cursos online, tutoriais e projetos pessoais, mergulhei de cabeça no universo da codificação, absorvendo cada linha de código como um novo 
- elemento em minha jornada.
- 
- Como pessoa autista, encontrei na programação uma linguagem que fazia sentido para mim. A lógica estruturada e a precisão exigida na escrita de código ressoaram profundamente com minha forma de pensar e processar informações. Encontrei um ambiente acolhedor onde minha singularidade é valorizada e 
- onde posso contribuir com minhas habilidades de maneira significativa.
- 
- Hoje, enquanto continuo minha jornada de aprendizado em programação, estou mais confiante do que nunca em meu potencial para criar, inovar e fazer a diferença no mundo da tecnologia. Cada linha de código que escrevo é mais do que apenas uma instrução; é uma expressão de minha paixão pela criação e 
- uma etapa em minha jornada de autodescoberta.
- 
- Estou animada para ver para onde essa jornada me levará e estou pronta para abraçar todos os desafios e oportunidades que surgirem no caminho. Se você me encontrar no mundo digital, saiba que sou uma autista determinada, apaixonada pela programação e pronta para fazer parte de algo incrível. Vamos 
- codificar juntos e tornar o futuro um lugar mais inclusivo e inovador para todos! 🌟🚀
+Troquei os tubos de ensaio e as fórmulas químicas pelos algoritmos e as linguagens de programação. Muita gente pode ter pensado que eu estava louca, mas, pra mim, foi a chance de seguir meu coração e mergulhar num mundo totalmente novo.
+Claro, a mudança não foi nenhum passeio no parque. Aprender programação tem um ritmo frenético que exige paciência (muita!) e resiliência, mas minha vontade de aprender nunca foi embora. Com cursos online, tutoriais e uns projetos meio doidos, fui me jogando de cabeça nesse universo. Cada linha de código que eu escrevia era como descobrir um elemento novo nesse meu "experimento" pessoal.
+
+Sendo autista, encontrei na programação uma linguagem que faz todo o sentido pra mim. A lógica certinha e a precisão que o código exige são praticamente a minha zona de conforto. E, olha, encontrar um ambiente onde minha forma de pensar é valorizada foi simplesmente incrível. Aqui, eu posso ser quem sou e usar minhas habilidades de um jeito que realmente faz a diferença.
+Hoje, ainda tô aprendendo (porque, né, em programação a gente nunca para), mas me sinto muito mais confiante sobre o que posso criar e conquistar. Cada linha de código que escrevo não é só uma instrução pra máquina, é um pedacinho da minha paixão pela criação e um passo importante nessa jornada de me descobrir.
+
+Tô animada pra ver até onde essa aventura vai me levar. Pronta pra encarar desafios, abraçar as oportunidades e fazer parte de algo incrível! Se cruzar comigo por aí no mundo digital, já sabe: sou uma autista apaixonada por programação, cheia de vontade de construir um futuro mais inclusivo e inovador pra todo mundo! 🚀✨
 
  ### Entre em contato comigo 👇🏻
 
