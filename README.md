@@ -19,7 +19,7 @@ Hoje, ainda tô aprendendo (porque, né, em programação a gente nunca para), m
    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bel-devfront/" alt="LinkedIn"/>
   </a>
   <a href="https://wa.me/5573982277632" title="WhatsApp" target="_blank">
-   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5573982277632" alt="WhatsApp"/>
+   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5573998048332" alt="WhatsApp"/>
   </a>
   <a href="https://www.instagram.com/belqraposo/" title="Instagram" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/belqraposo/" alt="Instagram"/>
