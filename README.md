@@ -12,8 +12,6 @@ Claro, a mudança não foi nenhum passeio no parque. Aprender programação tem 
 Sendo autista, encontrei na programação uma linguagem que faz todo o sentido pra mim. A lógica certinha e a precisão que o código exige são praticamente a minha zona de conforto. E, olha, encontrar um ambiente onde minha forma de pensar é valorizada foi simplesmente incrível. Aqui, eu posso ser quem sou e usar minhas habilidades de um jeito que realmente faz a diferença.
 Hoje, ainda tô aprendendo (porque, né, em programação a gente nunca para), mas me sinto muito mais confiante sobre o que posso criar e conquistar. Cada linha de código que escrevo não é só uma instrução pra máquina, é um pedacinho da minha paixão pela criação e um passo importante nessa jornada de me descobrir.
 
-Tô animada pra ver até onde essa aventura vai me levar. Pronta pra encarar desafios, abraçar as oportunidades e fazer parte de algo incrível! Se cruzar comigo por aí no mundo digital, já sabe: sou uma autista apaixonada por programação, cheia de vontade de construir um futuro mais inclusivo e inovador pra todo mundo! 🚀✨
-
  ### Entre em contato comigo 👇🏻
 
  <p align="left">
