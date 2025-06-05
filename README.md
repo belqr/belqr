@@ -1,24 +1,43 @@
-# Olá! 👋🏻
+# Oii! 👋😸
 
- Meu nome é Isabel e este é o meu espaço no GitHub! Aqui você encontrará um pouco sobre mim, projetos e estudos.
+ Eu sou a Isabel e este é o meu espaço no GitHub! Aqui você encontrará um pouquinho sobre mim, meus projetos e sobre meus estudos.
   
-## 🌸 Sobre mim 
+## 😼☝️ Sobre mim 
 
- Sou uma jovem autista de 23 anos em busca de desafios e descobertas na vastidão do mundo da programação. Minha jornada começou de maneira inusitada, pois antes de me aventurar pelo código, eu mergulhava nas complexidades da Química.
- 
-Troquei os tubos de ensaio e as fórmulas químicas pelos algoritmos e as linguagens de programação. Muita gente pode ter pensado que eu estava louca, mas, pra mim, foi a chance de seguir meu coração e mergulhar num mundo totalmente novo.
-Claro, a mudança não foi nenhum passeio no parque. Aprender programação tem um ritmo frenético que exige paciência (muita) e resiliência, mas minha vontade de aprender nunca foi embora. Com cursos online, tutoriais e uns projetos meio doidos, fui me jogando de cabeça nesse universo. Cada linha de código que eu escrevia era como descobrir um elemento novo nesse meu "experimento" pessoal.
+<table>
+  <tr>
+    <td>
+      <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="250" alt="programming_pc"> <br>
+      <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsuBXl_g0CHPuEqjRQvjJMRK5LXPSsRy-E1Y4YHPpkRWgY393LQnuEIyEiD7heN6DaxN3Y_I3DKu9LNWOQNL-92Oyz2jcmz9AfsnVRlTgmDz82n84QlBvflHqP3diddoj1z1mjJde5fv5-pRi5V0EtyNXP?key=gZ51Zx2RDV4NAigjaEf4VQ" width="250" alt="programming_cat"/> 
+    </td>
+    <td>
 
-Sendo autista, encontrei na programação uma linguagem que faz todo o sentido pra mim. A lógica certinha e a precisão que o código exige são praticamente a minha zona de conforto. E, olha, encontrar um ambiente onde minha forma de pensar é valorizada foi simplesmente incrível. Aqui, eu posso ser quem sou e usar minhas habilidades de um jeito que realmente faz a diferença.
-Hoje, ainda tô aprendendo (porque, né, em programação a gente nunca para), mas me sinto muito mais confiante sobre o que posso criar e conquistar. Cada linha de código que escrevo não é só uma instrução pra máquina, é um pedacinho da minha paixão pela criação e um passo importante nessa jornada de me descobrir.
+Tenho 23 anos, sou autista, tenho 12 gatos e troquei a Química pela programação.  
+Não foi um plano genial nem algo mágico só aconteceu.  
+Um dia eu estava tentando entender compostos orgânicos, no outro, tentando entender o que era um `for loop`.
 
- ### Entre em contato comigo 👇🏻
+No começo, parecia que eu estava entrando numa sala cheia de gente falando uma língua esquisita.  
+Mas, de algum jeito, essa língua fazia mais sentido pra mim do que muita coisa que já vi por aí.  
+Programação é lógica, é estrutura, é previsível e isso, pra mim, é um respiro.
+
+Aprender a programar não foi rápido, nem fácil. Foi (e ainda é heheh) um processo meio caótico, com muito tutorial aberto, erros absurdos e descobertas inesperadas.  
+Mas tem algo legal nisso tudo: cada bug que eu resolvo me mostra que entendi um pouquinho mais do mundo e de mim.
+
+Hoje eu não me vejo como "a pessoa que largou a Química", mas como alguém que encontrou, no código, uma forma de pensar que encaixa comigo.  
+Eu sigo aprendendo, testando, errando e ajustando.  
+E talvez esse seja o ponto: não existe fórmula pronta, mas existe caminho e esse é o meu.
+  </td>
+  </tr>
+</table>
+
+
+ ### Entre em contato comigo 👇😺
 
  <p align="left">
   <a href="https://www.linkedin.com/in/bel-devfront/" title="LinkedIn" target="_blank">
    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bel-devfront/" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/5573982277632" title="WhatsApp" target="_blank">
+  <a href="https://wa.me/5573998048332" title="WhatsApp" target="_blank">
    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5573998048332" alt="WhatsApp"/>
   </a>
   <a href="https://www.instagram.com/belqraposo/" title="Instagram" target="_blank">
