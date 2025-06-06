@@ -45,7 +45,6 @@ E talvez esse seja o ponto: não existe fórmula pronta, mas existe caminho e es
   </a>
 </p>
 
- ---
  
 <br>
 
