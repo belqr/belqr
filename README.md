@@ -72,6 +72,7 @@ E talvez esse seja o ponto: não existe fórmula pronta, mas existe caminho e es
   ### ✏️ Aprendendo 
 
   <code><img alt="bel-Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></code>
+  <code><img alt="bel-Java" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/></code>
   <code><img alt="bel-SQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></code>
   <code><img alt="bel-AWS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/></code>
   
