@@ -35,14 +35,11 @@ I'm Isabel and this is my GitHub space! Here you'll find a little bit about me, 
 ### Get in touch 👇😺
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bel-devfront/" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bel-devsec/" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/bel-devsec/" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/5573998048332" title="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5573998048332" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.instagram.com/belqraposo/" title="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/belqraposo/" alt="Instagram"/>
+  <a href="mailto:isabelqrz.contato@gmail.com">
+    <img alt="Gmail" height="32" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
@@ -52,28 +49,40 @@ I'm Isabel and this is my GitHub space! Here you'll find a little bit about me, 
 
 ## 📌 My Skills
 
-<code><img alt="bel-HTML" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/></code>
-<code><img alt="bel-CSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/></code>
-<code><img alt="bel-Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></code>
-<code><img alt="bel-Js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></code>
-<code><img alt="bel-React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
-<code><img alt="bel-Ts" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></code>
-<code><img alt="bel-JQuery" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/></code>
-<code><img alt="bel-Bootstrap" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/></code>
-<code><img alt="bel-Tailwind" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></code>
-<code><img alt="bel-Sass" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></code>
-<code><img alt="bel-Less" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/></code>
-<code><img alt="bel-Grunt" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg"/></code>
-<code><img alt="bel-Gulp" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg"/></code>
-<code><img alt="bel-Redux" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"/></code>
-<code><img alt="bel-Nextjs" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></code>
-<br>
+### 🎨 Frontend (Languages & Frameworks | Styling & UI)
+<code><img alt="HTML" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/></code>
+<code><img alt="CSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/></code>
+<code><img alt="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></code>
+<code><img alt="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></code>
+<code><img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+<code><img alt="Next.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></code>
+<code><img alt="jQuery" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/></code>
+<code><img alt="Bootstrap" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/></code>
+<code><img alt="TailwindCSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></code>
+<code><img alt="Sass" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></code>
+<code><img alt="Less" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/></code>
 
-### ✏️ Learning
+### 📱 Mobile Development
+<code><img alt="Dart" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></code>
+<code><img alt="Flutter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code>
 
-<code><img alt="bel-Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></code>
-<code><img alt="bel-SQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></code>
-<code><img alt="bel-AWS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/></code>
+### ⚡ Build & Automation Tools
+<code><img alt="Grunt" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg"/></code>
+<code><img alt="Gulp" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg"/></code> 
+
+### ⚙️ Version Control
+<code><img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></code>
+
+### 🗄️ Backend (Learning)
+<code><img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></code>
+<code><img alt="MySQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></code>
+
+### ☁️ DevOps & Cloud
+<code><img alt="AWS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/></code>
+<code><img alt="Azure" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" /></code>
+
+### 🔐 Cybersecurity & Cloud Security (Learning)
+<code><img alt="CyberSec" height="32" src="https://cdn-icons-png.flaticon.com/512/4744/4744315.png"/></code>
 
 ---
 
