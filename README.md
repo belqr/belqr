@@ -77,35 +77,4 @@ I'm Isabel and this is my GitHub space! Here you'll find a little bit about me, 
 <code><img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></code>
 <code><img alt="MySQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></code>
 
-### ☁️ DevOps & Cloud
-<code><img alt="AWS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/></code>
-<code><img alt="Azure" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" /></code>
-
-### 🔐 Cybersecurity & Cloud Security (Learning)
-<code><img alt="CyberSec" height="32" src="https://cdn-icons-png.flaticon.com/512/4744/4744315.png"/></code>
-
----
-
-<br>
-
-## 💫 GitHub Analytics
- 
-![Belqr github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belqr&bg_color=22272e&color=DD6387&line=78D7F7&point=533849&area=true&hide_border=true)
-<br>
-
-<div align="center">
-  <a href="https://github.com/belqr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belqr&show_icons=true&theme=dracula&bg_color=22272e&hide_border=true&include_all_commits=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belqr&layout=compact&theme=dracula&bg_color=22272e&hide_border=true"/>
-</div>
-<br>
-
-<p align="center">
-  <a href="https://github.com/belqr/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=belqr&column=8&theme=dracula&no-frame=true&no-bg=true"/>
-  </a>
-</p>
-
----
-
 <br>
