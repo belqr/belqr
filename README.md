@@ -12,7 +12,7 @@ I'm Isabel and this is my GitHub space! Here you'll find a little bit about me, 
     </td>
     <td>
 
-   I'm 23 years old, autistic, I have 12 cats, and I traded Chemistry for programming.
+   I'm 23 years old, I have 12 cats, and I traded Chemistry for programming.
    It wasn't a brilliant plan or something magical; it just happened.
    One day I was trying to understand organic compounds, the next, trying to figure out what a `for loop` was.
    
