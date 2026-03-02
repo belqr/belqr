@@ -35,7 +35,7 @@ I'm Isabel and this is my GitHub space! Here you'll find a little bit about me, 
 ### Get in touch 👇😺
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bel-devsec/" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/isabel-devfront/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="mailto:isabelqrz.contato@gmail.com">
